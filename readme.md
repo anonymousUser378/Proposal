@@ -4,7 +4,7 @@ A tool for analyzing APK files using LLMs.
 
 ## Latest Updates
 - **March 19, 2025**  
-  Added documentation (this README) and a more convenient executable JAR package
+  Added documentation (this README) and a more convenient [executable JAR package](https://github.com/anonymousUser378/Proposal/releases/download/Proposal-5352/Proposal-5352.jar)
 - **March 12, 2025**  
   Initial source code release
 
