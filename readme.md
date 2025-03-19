@@ -1,6 +1,6 @@
 # Proposal-5352 Tool
 
-A tool for analyzing APK files using LLMs.
+A tool for analyzing APK files.
 
 ## Latest Updates
 - **March 19, 2025**  
