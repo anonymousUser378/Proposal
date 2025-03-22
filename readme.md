@@ -4,7 +4,9 @@ A tool for analyzing APK files.
 
 ## Latest Updates
 - **March 22, 2025**  
-  Added documentation (this README) and a more convenient [executable JAR package](https://drive.google.com/file/d/16C1C31CIhJXt68F1kHTh6gcPOXnADJLk/view?usp=sharing)
+  Added a new link to the [executable JAR package](https://drive.google.com/file/d/16C1C31CIhJXt68F1kHTh6gcPOXnADJLk/view?usp=sharing)
+- **March 19, 2025**  
+  Added documentation (this README) and a more convenient [executable JAR package](https://github.com/anonymousUser378/Proposal/releases/download/Proposal-5352/Proposal-5352.jar)
 - **March 12, 2025**  
   Initial source code release
 
